@@ -16,16 +16,17 @@ A simple and beginner-friendly **console-based Java application** to track your 
 ## 📸 Screenshots
 
 ### ➕ Add Expense
-![Add Expense](screenshots/add_expenses.png)
+<img width="545" height="583" alt="add_expenses" src="https://github.com/user-attachments/assets/a5093c0b-2fe6-4850-b61d-44788c4e9d5e" />
+
 
 ### 👁️ View Expenses
-![View Expenses](screenshots/view_expenses.png)
+<img width="484" height="216" alt="view_expenses" src="https://github.com/user-attachments/assets/bd8a865f-bb2d-4970-81f0-1661d99b75eb" />
 
 ### 💰 Calculate Total
-![Total Expense](screenshots/caluculate_total.png)
+<img width="466" height="139" alt="caluculate_total" src="https://github.com/user-attachments/assets/f8638a5e-0902-41a4-bc7f-57167fd0d650" />
 
 ### 🚪 Exit
-![Exit](screenshots/end.png)
+<img width="368" height="137" alt="exit" src="https://github.com/user-attachments/assets/e2e2b4a1-63f7-441e-bb71-a7fc7639dcf5" />
 
 ---
 
