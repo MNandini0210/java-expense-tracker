@@ -30,5 +30,47 @@ A simple and beginner-friendly **console-based Java application** to track your 
 
 ---
 
-## 📂 Project Structure
+<h1 align="center">💸 Expense Tracker</h1>
+
+<p align="center">
+  A simple and beginner-friendly Java console application to track your daily expenses.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Java-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Level-Beginner-yellow?style=for-the-badge" />
+</p>
+
+---
+
+## 🚀 Features
+
+- ✅ Add expenses with category, amount & date
+- 👁️ View all recorded expenses
+- 💰 Calculate total amount spent
+- 🧹 Clean and simple user interface
+- 💻 Console-based Java program
+
+---
+
+## 🖼️ Screenshots
+
+### ➕ Adding Expense
+<img src="screenshots/add_expenses.png" width="500" alt="Add Expense">
+
+### 📋 Viewing Expenses
+<img src="screenshots/view_expenses.png" width="500" alt="View Expenses">
+
+### 💰 Total Calculation
+<img src="screenshots/caluculate_total.png" width="500" alt="Total Expense">
+
+### 👋 Exit Program
+<img src="screenshots/end.png" width="500" alt="Exit">
+
+---
+
+## 📁 Project Structure
+
+
 
