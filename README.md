@@ -37,6 +37,20 @@
 ### 🚪 Exit
 <img width="368" height="137" alt="exit" src="https://github.com/user-attachments/assets/e2e2b4a1-63f7-441e-bb71-a7fc7639dcf5" />
 
+## 🎯 What I Learned
+
+- Practiced object-oriented programming (OOP) in Java
+- Used `ArrayList` and `Scanner` classes effectively
+- Gained experience building real-world console applications
+
+## 🙋‍♀️ About Me
+
+I'm Nandhini M, a B.Tech student passionate about Java, problem solving, and real-world projects.  
+I love building beginner-friendly apps and learning new technologies.
+
+📫 [Connect with me on GitHub](https://github.com/MNandini0210)
+
+
 ---
 
 
